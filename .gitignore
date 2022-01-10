@@ -1,0 +1,7 @@
+/.gradle/
+/app/build/
+/build/
+/app/release/
+/app/google-services.json
+/.idea/
+/.bash_profile
